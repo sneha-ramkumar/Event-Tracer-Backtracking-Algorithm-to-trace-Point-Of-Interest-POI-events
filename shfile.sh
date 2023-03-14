@@ -1,0 +1,21 @@
+echo "Hey from shfile"
+echo hi
+echo bye
+echo hi
+echo bye
+echo hi
+echo bye
+echo hi
+echo bye
+echo hi
+echo bye
+echo hi
+echo bye
+echo hi
+echo bye
+echo hi
+echo bye
+echo hi
+echo bye
+echo hi
+echo bye
